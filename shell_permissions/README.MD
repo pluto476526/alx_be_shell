@@ -1,0 +1,1 @@
+This script modifies permissions
