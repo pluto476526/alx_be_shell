@@ -1,2 +1,1 @@
-#!/bin/bash
-This script modifies permissions for betty
+This is a bash script
